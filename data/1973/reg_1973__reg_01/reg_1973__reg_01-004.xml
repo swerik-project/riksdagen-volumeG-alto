@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2au7074p_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1219" HEIGHT="1906" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1219" HEIGHT="1906">
+				<ComposedBlock ID="cblock_0" HPOS="346" VPOS="61" WIDTH="740" HEIGHT="94">
+					<TextBlock ID="block_0" HPOS="346" VPOS="5" WIDTH="740" HEIGHT="150">
+						<TextLine ID="line_0" HPOS="346" VPOS="61" WIDTH="740" HEIGHT="94">
+							<String ID="string_0" HPOS="346" VPOS="64" WIDTH="184" HEIGHT="77" WC="0.65" CONTENT="1973"/><SP WIDTH="45" VPOS="64" HPOS="530"/>
+							<String ID="string_1" HPOS="575" VPOS="66" WIDTH="123" HEIGHT="74" WC="0.65" CONTENT="års"/><SP WIDTH="43" VPOS="66" HPOS="698"/>
+							<String ID="string_2" HPOS="741" VPOS="61" WIDTH="345" HEIGHT="94" WC="0.85" CONTENT="Riksdag"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="341" VPOS="1317" WIDTH="468" HEIGHT="95">
+					<TextBlock ID="block_1" HPOS="341" VPOS="1317" WIDTH="468" HEIGHT="95">
+						<TextLine ID="line_1" HPOS="341" VPOS="1317" WIDTH="468" HEIGHT="95">
+							<String ID="string_3" HPOS="341" VPOS="1317" WIDTH="468" HEIGHT="95" WC="0.92" CONTENT="Sakregister"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="338" VPOS="1503" WIDTH="621" HEIGHT="106">
+					<TextBlock ID="block_2" HPOS="338" VPOS="1503" WIDTH="621" HEIGHT="106">
+						<TextLine ID="line_2" HPOS="340" VPOS="1503" WIDTH="268" HEIGHT="38">
+							<String ID="string_4" HPOS="340" VPOS="1503" WIDTH="201" HEIGHT="38" WC="0.92" CONTENT="Utarbetat"/><SP WIDTH="20" VPOS="1503" HPOS="541"/>
+							<String ID="string_5" HPOS="561" VPOS="1514" WIDTH="47" HEIGHT="27" WC="0.96" CONTENT="av"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="338" VPOS="1561" WIDTH="621" HEIGHT="48">
+							<String ID="string_6" HPOS="338" VPOS="1562" WIDTH="238" HEIGHT="47" WC="0.93" CONTENT="Riksdagens"/><SP WIDTH="20" VPOS="1562" HPOS="576"/>
+							<String ID="string_7" HPOS="596" VPOS="1561" WIDTH="363" HEIGHT="47" WC="0.91" CONTENT="upplysningstjänst"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="338" VPOS="1705" WIDTH="305" HEIGHT="25">
+					<TextBlock ID="block_3" HPOS="338" VPOS="1705" WIDTH="305" HEIGHT="25">
+						<TextLine ID="line_4" HPOS="338" VPOS="1705" WIDTH="305" HEIGHT="25">
+							<String ID="string_8" HPOS="338" VPOS="1705" WIDTH="111" HEIGHT="23" WC="0.96" CONTENT="Riksdagen"/><SP WIDTH="10" VPOS="1705" HPOS="449"/>
+							<String ID="string_9" HPOS="459" VPOS="1706" WIDTH="51" HEIGHT="19" WC="0.93" CONTENT="1974."/><SP WIDTH="10" VPOS="1706" HPOS="510"/>
+							<String ID="string_10" HPOS="520" VPOS="1706" WIDTH="123" HEIGHT="24" WC="0.91" CONTENT="Sakregister"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
