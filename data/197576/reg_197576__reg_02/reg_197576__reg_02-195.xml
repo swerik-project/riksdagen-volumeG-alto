@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3d052j9l_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1213" HEIGHT="1862" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1213" HEIGHT="1862">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="1495" WIDTH="7" HEIGHT="367"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="0" WIDTH="613" HEIGHT="14"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="87" VPOS="65" WIDTH="443" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="87" VPOS="65" WIDTH="443" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="87" VPOS="65" WIDTH="443" HEIGHT="21">
+							<String ID="string_0" HPOS="87" VPOS="65" WIDTH="18" HEIGHT="20" WC="0.92" CONTENT="U"/><SP WIDTH="20" VPOS="65" HPOS="105"/>
+							<String ID="string_1" HPOS="125" VPOS="61" WIDTH="16" HEIGHT="32" WC="0.0" CONTENT="-."/><SP WIDTH="8" VPOS="61" HPOS="141"/>
+							<String ID="string_2" HPOS="149" VPOS="66" WIDTH="271" HEIGHT="17" WC="0.90" CONTENT="UTSKOTTSSKRIVELSER"/><SP WIDTH="10" VPOS="66" HPOS="420"/>
+							<String ID="string_3" HPOS="430" VPOS="67" WIDTH="75" HEIGHT="19" WC="0.92" CONTENT="1975/76:"/><SP WIDTH="11" VPOS="67" HPOS="505"/>
+							<String ID="string_4" HPOS="516" VPOS="68" WIDTH="14" HEIGHT="15" WC="0.95" CONTENT="11"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="85" VPOS="136" WIDTH="492" HEIGHT="133">
+					<TextBlock ID="block_1" HPOS="85" VPOS="136" WIDTH="492" HEIGHT="133">
+						<TextLine ID="line_1" HPOS="108" VPOS="136" WIDTH="427" HEIGHT="21">
+							<String ID="string_5" HPOS="108" VPOS="136" WIDTH="28" HEIGHT="17" WC="0.96" CONTENT="vid"/><SP WIDTH="6" VPOS="136" HPOS="136"/>
+							<String ID="string_6" HPOS="142" VPOS="137" WIDTH="48" HEIGHT="16" WC="0.96" CONTENT="detta"/><SP WIDTH="7" VPOS="137" HPOS="190"/>
+							<String ID="string_7" HPOS="197" VPOS="137" WIDTH="110" HEIGHT="16" WC="0.96" CONTENT="betänkande"/><SP WIDTH="6" VPOS="137" HPOS="307"/>
+							<String ID="string_8" HPOS="313" VPOS="137" WIDTH="64" HEIGHT="20" WC="0.96" CONTENT="fogade"/><SP WIDTH="7" VPOS="137" HPOS="377"/>
+							<String ID="string_9" HPOS="384" VPOS="137" WIDTH="56" HEIGHT="20" WC="0.96" CONTENT="bilaga"/><SP WIDTH="9" VPOS="137" HPOS="440"/>
+							<String ID="string_10" HPOS="449" VPOS="138" WIDTH="4" HEIGHT="15" WC="0.86" CONTENT="1"/><SP WIDTH="9" VPOS="138" HPOS="453"/>
+							<String ID="string_11" HPOS="462" VPOS="137" WIDTH="73" HEIGHT="19" WC="0.96" CONTENT="utvisar,"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="107" VPOS="160" WIDTH="470" HEIGHT="21">
+							<String ID="string_12" HPOS="107" VPOS="160" WIDTH="15" HEIGHT="16" WC="0.96" CONTENT="2."/><SP WIDTH="11" VPOS="160" HPOS="122"/>
+							<String ID="string_13" HPOS="133" VPOS="160" WIDTH="22" HEIGHT="16" WC="0.96" CONTENT="de"/><SP WIDTH="10" VPOS="160" HPOS="155"/>
+							<String ID="string_14" HPOS="165" VPOS="160" WIDTH="23" HEIGHT="16" WC="0.93" CONTENT="till"/><SP WIDTH="11" VPOS="160" HPOS="188"/>
+							<String ID="string_15" HPOS="199" VPOS="160" WIDTH="132" HEIGHT="20" WC="0.90" CONTENT="tilläggsbudget"/><SP WIDTH="12" VPOS="160" HPOS="331"/>
+							<String ID="string_16" HPOS="343" VPOS="161" WIDTH="22" HEIGHT="15" WC="0.96" CONTENT="III"/><SP WIDTH="10" VPOS="161" HPOS="365"/>
+							<String ID="string_17" HPOS="375" VPOS="160" WIDTH="23" HEIGHT="17" WC="0.96" CONTENT="till"/><SP WIDTH="10" VPOS="160" HPOS="398"/>
+							<String ID="string_18" HPOS="408" VPOS="161" WIDTH="132" HEIGHT="20" WC="0.96" CONTENT="statsbudgeten"/><SP WIDTH="9" VPOS="161" HPOS="540"/>
+							<String ID="string_19" HPOS="549" VPOS="161" WIDTH="28" HEIGHT="16" WC="0.96" CONTENT="för"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="107" VPOS="182" WIDTH="470" HEIGHT="22">
+							<String ID="string_20" HPOS="107" VPOS="182" WIDTH="101" HEIGHT="21" WC="0.93" CONTENT="budgetåret"/><SP WIDTH="13" VPOS="182" HPOS="208"/>
+							<String ID="string_21" HPOS="221" VPOS="183" WIDTH="70" HEIGHT="19" WC="0.92" CONTENT="1975/76"/><SP WIDTH="10" VPOS="183" HPOS="291"/>
+							<String ID="string_22" HPOS="301" VPOS="183" WIDTH="97" HEIGHT="21" WC="0.92" CONTENT="hänförliga"/><SP WIDTH="10" VPOS="183" HPOS="398"/>
+							<String ID="string_23" HPOS="408" VPOS="183" WIDTH="93" HEIGHT="21" WC="0.96" CONTENT="utgifterna"/><SP WIDTH="11" VPOS="183" HPOS="501"/>
+							<String ID="string_24" HPOS="512" VPOS="183" WIDTH="21" HEIGHT="21" WC="0.96" CONTENT="på"/><SP WIDTH="10" VPOS="183" HPOS="533"/>
+							<String ID="string_25" HPOS="543" VPOS="185" WIDTH="34" HEIGHT="15" WC="0.96" CONTENT="sätt"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="107" VPOS="206" WIDTH="420" HEIGHT="21">
+							<String ID="string_26" HPOS="107" VPOS="207" WIDTH="28" HEIGHT="16" WC="0.96" CONTENT="vid"/><SP WIDTH="6" VPOS="207" HPOS="135"/>
+							<String ID="string_27" HPOS="141" VPOS="206" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="detta"/><SP WIDTH="6" VPOS="206" HPOS="190"/>
+							<String ID="string_28" HPOS="196" VPOS="207" WIDTH="110" HEIGHT="16" WC="0.96" CONTENT="betänkande"/><SP WIDTH="6" VPOS="207" HPOS="306"/>
+							<String ID="string_29" HPOS="312" VPOS="207" WIDTH="65" HEIGHT="20" WC="0.95" CONTENT="fogade"/><SP WIDTH="6" VPOS="207" HPOS="377"/>
+							<String ID="string_30" HPOS="383" VPOS="207" WIDTH="56" HEIGHT="20" WC="0.95" CONTENT="bilaga"/><SP WIDTH="6" VPOS="207" HPOS="439"/>
+							<String ID="string_31" HPOS="445" VPOS="207" WIDTH="10" HEIGHT="16" WC="0.96" CONTENT="2"/><SP WIDTH="6" VPOS="207" HPOS="455"/>
+							<String ID="string_32" HPOS="461" VPOS="207" WIDTH="66" HEIGHT="17" WC="0.95" CONTENT="utvisar"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="85" VPOS="230" WIDTH="491" HEIGHT="17">
+							<String ID="string_33" HPOS="85" VPOS="230" WIDTH="30" HEIGHT="16" WC="0.81" CONTENT="RD"/><SP WIDTH="26" VPOS="230" HPOS="115"/>
+							<String ID="string_34" HPOS="141" VPOS="230" WIDTH="71" HEIGHT="16" WC="0.52" CONTENT="150s127"/><SP WIDTH="24" VPOS="230" HPOS="212"/>
+							<String ID="string_35" HPOS="236" VPOS="237" WIDTH="13" HEIGHT="6" WC="0.73" CONTENT="="/><SP WIDTH="12" VPOS="237" HPOS="249"/>
+							<String ID="string_36" HPOS="261" VPOS="230" WIDTH="36" HEIGHT="17" WC="0.73" CONTENT="FiU"/><SP WIDTH="193" VPOS="230" HPOS="297"/>
+							<String ID="string_37" HPOS="490" VPOS="230" WIDTH="86" HEIGHT="17" WC="0.78" CONTENT="76-06-04"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="85" VPOS="253" WIDTH="97" HEIGHT="16">
+							<String ID="string_38" HPOS="85" VPOS="253" WIDTH="44" HEIGHT="16" WC="0.91" CONTENT="Rskr"/><SP WIDTH="22" VPOS="253" HPOS="129"/>
+							<String ID="string_39" HPOS="151" VPOS="253" WIDTH="31" HEIGHT="16" WC="0.91" CONTENT="422"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="613" VPOS="0" WIDTH="381" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="1096" VPOS="70" WIDTH="32" HEIGHT="16">
+					<TextBlock ID="block_2" HPOS="1096" VPOS="70" WIDTH="32" HEIGHT="16">
+						<TextLine ID="line_7" HPOS="1096" VPOS="70" WIDTH="32" HEIGHT="16">
+							<String ID="string_40" HPOS="1096" VPOS="70" WIDTH="32" HEIGHT="16" WC="0.96" CONTENT="484"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_6" HPOS="280" VPOS="1849" WIDTH="848" HEIGHT="13"></GraphicalElement >
+				<GraphicalElement ID="cblock_7" HPOS="1204" VPOS="6" WIDTH="9" HEIGHT="639"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
