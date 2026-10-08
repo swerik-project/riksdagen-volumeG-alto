@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_kbmx93bx_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1311" HEIGHT="1957" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1311" HEIGHT="1957">
+				<ComposedBlock ID="cblock_0" HPOS="115" VPOS="1689" WIDTH="273" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="115" VPOS="1689" WIDTH="273" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="115" VPOS="1689" WIDTH="273" HEIGHT="21">
+							<String ID="string_0" HPOS="115" VPOS="1689" WIDTH="57" HEIGHT="14" WC="0.93" CONTENT="Göteborgs"/><SP WIDTH="5" VPOS="1689" HPOS="172"/>
+							<String ID="string_1" HPOS="177" VPOS="1692" WIDTH="80" HEIGHT="12" WC="0.88" CONTENT="Offsettryckeri"/><SP WIDTH="5" VPOS="1692" HPOS="257"/>
+							<String ID="string_2" HPOS="262" VPOS="1696" WIDTH="21" HEIGHT="11" WC="0.93" CONTENT="AB,"/><SP WIDTH="5" VPOS="1696" HPOS="283"/>
+							<String ID="string_3" HPOS="288" VPOS="1697" WIDTH="33" HEIGHT="9" WC="0.89" CONTENT="Sthim"/><SP WIDTH="6" VPOS="1697" HPOS="321"/>
+							<String ID="string_4" HPOS="327" VPOS="1698" WIDTH="24" HEIGHT="10" WC="0.96" CONTENT="72.2"/><SP WIDTH="5" VPOS="1698" HPOS="351"/>
+							<String ID="string_5" HPOS="356" VPOS="1699" WIDTH="21" HEIGHT="10" WC="0.45" CONTENT="345"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
