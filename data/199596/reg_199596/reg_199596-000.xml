@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_g4s3at72_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1949" HEIGHT="2858" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1949" HEIGHT="2858">
+				<ComposedBlock ID="cblock_0" HPOS="309" VPOS="178" WIDTH="1238" HEIGHT="112">
+					<TextBlock ID="block_0" HPOS="309" VPOS="178" WIDTH="1238" HEIGHT="112">
+						<TextLine ID="line_0" HPOS="309" VPOS="178" WIDTH="1238" HEIGHT="112">
+							<String ID="string_0" HPOS="309" VPOS="182" WIDTH="467" HEIGHT="108" WC="0.63" CONTENT="19957/96"/><SP WIDTH="50" VPOS="182" HPOS="776"/>
+							<String ID="string_1" HPOS="826" VPOS="178" WIDTH="162" HEIGHT="110" WC="0.92" CONTENT="års"/><SP WIDTH="44" VPOS="178" HPOS="988"/>
+							<String ID="string_2" HPOS="1032" VPOS="182" WIDTH="515" HEIGHT="106" WC="0.96" CONTENT="riksmöte"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="294" VPOS="497" WIDTH="515" HEIGHT="140">
+					<TextBlock ID="block_1" HPOS="294" VPOS="497" WIDTH="515" HEIGHT="140">
+						<TextLine ID="line_1" HPOS="294" VPOS="497" WIDTH="515" HEIGHT="140">
+							<String ID="string_3" HPOS="294" VPOS="497" WIDTH="515" HEIGHT="140" WC="0.83" CONTENT="Register"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="905" VPOS="1766" WIDTH="275" HEIGHT="65">
+					<TextBlock ID="block_2" HPOS="905" VPOS="1766" WIDTH="275" HEIGHT="65">
+						<TextLine ID="line_2" HPOS="905" VPOS="1766" WIDTH="275" HEIGHT="65">
+							<String ID="string_4" HPOS="905" VPOS="1772" WIDTH="76" HEIGHT="59" WC="0.82" CONTENT="1999"/><SP WIDTH="28" VPOS="1772" HPOS="981"/>
+							<String ID="string_5" HPOS="1009" VPOS="1766" WIDTH="78" HEIGHT="55" WC="0.37" CONTENT="-00-"/><SP WIDTH="40" VPOS="1766" HPOS="1087"/>
+							<String ID="string_6" HPOS="1127" VPOS="1766" WIDTH="53" HEIGHT="50" WC="0.48" CONTENT="2"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="294" VPOS="2185" WIDTH="782" HEIGHT="135">
+					<TextBlock ID="block_3" HPOS="294" VPOS="2185" WIDTH="782" HEIGHT="135">
+						<TextLine ID="line_3" HPOS="294" VPOS="2185" WIDTH="346" HEIGHT="49">
+							<String ID="string_7" HPOS="294" VPOS="2185" WIDTH="262" HEIGHT="49" WC="0.92" CONTENT="Utarbetat"/><SP WIDTH="22" VPOS="2185" HPOS="556"/>
+							<String ID="string_8" HPOS="578" VPOS="2200" WIDTH="62" HEIGHT="34" WC="0.96" CONTENT="av"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="294" VPOS="2256" WIDTH="782" HEIGHT="64">
+							<String ID="string_9" HPOS="294" VPOS="2256" WIDTH="323" HEIGHT="64" WC="0.93" CONTENT="Riksdagens"/><SP WIDTH="25" VPOS="2256" HPOS="617"/>
+							<String ID="string_10" HPOS="642" VPOS="2256" WIDTH="434" HEIGHT="49" WC="0.92" CONTENT="dokumentenhet"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="294" VPOS="2480" WIDTH="162" HEIGHT="37">
+					<TextBlock ID="block_4" HPOS="294" VPOS="2480" WIDTH="162" HEIGHT="37">
+						<TextLine ID="line_5" HPOS="294" VPOS="2480" WIDTH="162" HEIGHT="37">
+							<String ID="string_11" HPOS="294" VPOS="2480" WIDTH="109" HEIGHT="36" WC="0.93" CONTENT="Band"/><SP WIDTH="17" VPOS="2480" HPOS="403"/>
+							<String ID="string_12" HPOS="420" VPOS="2480" WIDTH="36" HEIGHT="37" WC="0.88" CONTENT="G"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
