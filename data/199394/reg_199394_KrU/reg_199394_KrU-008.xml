@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_zrj24rfn_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1969" HEIGHT="2872" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1969" HEIGHT="2872">
+				<ComposedBlock ID="cblock_0" HPOS="245" VPOS="160" WIDTH="1638" HEIGHT="86">
+					<TextBlock ID="block_0" HPOS="245" VPOS="160" WIDTH="1638" HEIGHT="86">
+						<TextLine ID="line_0" HPOS="245" VPOS="160" WIDTH="1638" HEIGHT="40">
+							<String ID="string_0" HPOS="245" VPOS="164" WIDTH="48" HEIGHT="29" WC="0.93" CONTENT="Nr"/><SP WIDTH="17" VPOS="164" HPOS="293"/>
+							<String ID="string_1" HPOS="310" VPOS="162" WIDTH="145" HEIGHT="38" WC="0.50" CONTENT="KrUl0y"/><SP WIDTH="17" VPOS="162" HPOS="455"/>
+							<String ID="string_2" HPOS="472" VPOS="162" WIDTH="53" HEIGHT="30" WC="0.93" CONTENT="till"/><SP WIDTH="18" VPOS="162" HPOS="525"/>
+							<String ID="string_3" HPOS="543" VPOS="162" WIDTH="65" HEIGHT="30" WC="0.92" CONTENT="FiU"/><SP WIDTH="946" VPOS="162" HPOS="608"/>
+							<String ID="string_4" HPOS="1554" VPOS="160" WIDTH="233" HEIGHT="30" WC="0.91" CONTENT="1993/94:KrU"/><SP WIDTH="19" VPOS="160" HPOS="1787"/>
+							<String ID="string_5" HPOS="1806" VPOS="160" WIDTH="77" HEIGHT="37" WC="0.96" CONTENT="Reg."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="246" VPOS="203" WIDTH="1170" HEIGHT="43">
+							<String ID="string_6" HPOS="246" VPOS="206" WIDTH="544" HEIGHT="40" WC="0.92" CONTENT="Kompletteringspropositionen"/><SP WIDTH="18" VPOS="206" HPOS="790"/>
+							<String ID="string_7" HPOS="808" VPOS="206" WIDTH="113" HEIGHT="37" WC="0.93" CONTENT="(prop."/><SP WIDTH="21" VPOS="206" HPOS="921"/>
+							<String ID="string_8" HPOS="942" VPOS="203" WIDTH="218" HEIGHT="31" WC="0.91" CONTENT="1993/94:150"/><SP WIDTH="15" VPOS="203" HPOS="1160"/>
+							<String ID="string_9" HPOS="1175" VPOS="203" WIDTH="58" HEIGHT="30" WC="0.95" CONTENT="bil."/><SP WIDTH="17" VPOS="203" HPOS="1233"/>
+							<String ID="string_10" HPOS="1250" VPOS="203" WIDTH="19" HEIGHT="30" WC="0.96" CONTENT="8"/><SP WIDTH="15" VPOS="203" HPOS="1269"/>
+							<String ID="string_11" HPOS="1284" VPOS="203" WIDTH="60" HEIGHT="30" WC="0.96" CONTENT="och"/><SP WIDTH="20" VPOS="203" HPOS="1344"/>
+							<String ID="string_12" HPOS="1364" VPOS="203" WIDTH="52" HEIGHT="35" WC="0.96" CONTENT="11)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="242" VPOS="253" WIDTH="1294" HEIGHT="243">
+					<TextBlock ID="block_1" HPOS="246" VPOS="253" WIDTH="1289" HEIGHT="41">
+						<TextLine ID="line_2" HPOS="246" VPOS="253" WIDTH="1289" HEIGHT="41">
+							<String ID="string_13" HPOS="246" VPOS="261" WIDTH="167" HEIGHT="26" WC="0.96" CONTENT="Utskottets"/><SP WIDTH="12" VPOS="261" HPOS="413"/>
+							<String ID="string_14" HPOS="425" VPOS="259" WIDTH="147" HEIGHT="35" WC="0.96" CONTENT="justering"/><SP WIDTH="784" VPOS="259" HPOS="572"/>
+							<String ID="string_15" HPOS="1356" VPOS="253" WIDTH="179" HEIGHT="28" WC="0.95" CONTENT="1994-05-20"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="246" VPOS="302" WIDTH="1290" HEIGHT="190">
+						<TextLine ID="line_3" HPOS="1431" VPOS="302" WIDTH="104" HEIGHT="28">
+							<String ID="string_16" HPOS="1431" VPOS="302" WIDTH="104" HEIGHT="28" WC="0.89" CONTENT="FiU20"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="242" VPOS="351" WIDTH="1293" HEIGHT="47">
+							<String ID="string_17" HPOS="242" VPOS="354" WIDTH="173" HEIGHT="44" WC="0.90" CONTENT="Debattdag"/><SP WIDTH="942" VPOS="354" HPOS="415"/>
+							<String ID="string_18" HPOS="1357" VPOS="351" WIDTH="178" HEIGHT="28" WC="0.96" CONTENT="1994-06-10"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="246" VPOS="401" WIDTH="1289" HEIGHT="44">
+							<String ID="string_19" HPOS="246" VPOS="403" WIDTH="320" HEIGHT="42" WC="0.37" CONTENT="Protokollsnummer"/><SP WIDTH="775" VPOS="403" HPOS="566"/>
+							<String ID="string_20" HPOS="1341" VPOS="401" WIDTH="194" HEIGHT="28" WC="0.90" CONTENT="1993/94:122"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="243" VPOS="450" WIDTH="1293" HEIGHT="46">
+							<String ID="string_21" HPOS="243" VPOS="452" WIDTH="294" HEIGHT="44" WC="0.91" CONTENT="Riksdagsskrivelse"/><SP WIDTH="805" VPOS="452" HPOS="537"/>
+							<String ID="string_22" HPOS="1342" VPOS="450" WIDTH="194" HEIGHT="28" WC="0.92" CONTENT="1993/94:458"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
