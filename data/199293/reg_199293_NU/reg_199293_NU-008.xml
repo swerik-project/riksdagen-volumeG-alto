@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_zfkykpde_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1967" HEIGHT="2870" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1967" HEIGHT="2870">
+				<ComposedBlock ID="cblock_0" HPOS="229" VPOS="170" WIDTH="1630" HEIGHT="174">
+					<TextBlock ID="block_0" HPOS="229" VPOS="170" WIDTH="1630" HEIGHT="84">
+						<TextLine ID="line_0" HPOS="229" VPOS="170" WIDTH="1630" HEIGHT="40">
+							<String ID="string_0" HPOS="229" VPOS="170" WIDTH="48" HEIGHT="29" WC="0.90" CONTENT="Nr"/><SP WIDTH="17" VPOS="170" HPOS="277"/>
+							<String ID="string_1" HPOS="294" VPOS="170" WIDTH="124" HEIGHT="38" WC="0.88" CONTENT="NU10y"/><SP WIDTH="18" VPOS="170" HPOS="418"/>
+							<String ID="string_2" HPOS="436" VPOS="170" WIDTH="54" HEIGHT="30" WC="0.96" CONTENT="till"/><SP WIDTH="17" VPOS="170" HPOS="490"/>
+							<String ID="string_3" HPOS="507" VPOS="170" WIDTH="279" HEIGHT="30" WC="0.95" CONTENT="finansutskottet"/><SP WIDTH="757" VPOS="170" HPOS="786"/>
+							<String ID="string_4" HPOS="1543" VPOS="171" WIDTH="218" HEIGHT="30" WC="0.92" CONTENT="1992/93:NU"/><SP WIDTH="19" VPOS="171" HPOS="1761"/>
+							<String ID="string_5" HPOS="1780" VPOS="172" WIDTH="79" HEIGHT="38" WC="0.96" CONTENT="Reg."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="229" VPOS="213" WIDTH="930" HEIGHT="41">
+							<String ID="string_6" HPOS="229" VPOS="215" WIDTH="549" HEIGHT="39" WC="0.89" CONTENT="Kompletteringspropositionen"/><SP WIDTH="18" VPOS="215" HPOS="778"/>
+							<String ID="string_7" HPOS="796" VPOS="215" WIDTH="112" HEIGHT="37" WC="0.93" CONTENT="(prop."/><SP WIDTH="19" VPOS="215" HPOS="908"/>
+							<String ID="string_8" HPOS="927" VPOS="213" WIDTH="232" HEIGHT="36" WC="0.92" CONTENT="1992/93:150)"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_1" HPOS="229" VPOS="265" WIDTH="1272" HEIGHT="38">
+						<TextLine ID="line_2" HPOS="229" VPOS="265" WIDTH="1272" HEIGHT="38">
+							<String ID="string_9" HPOS="229" VPOS="268" WIDTH="167" HEIGHT="27" WC="0.96" CONTENT="Utskottets"/><SP WIDTH="12" VPOS="268" HPOS="396"/>
+							<String ID="string_10" HPOS="408" VPOS="267" WIDTH="150" HEIGHT="36" WC="0.96" CONTENT="justering"/><SP WIDTH="768" VPOS="267" HPOS="558"/>
+							<String ID="string_11" HPOS="1326" VPOS="265" WIDTH="175" HEIGHT="27" WC="0.95" CONTENT="1993-05-13"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="229" VPOS="315" WIDTH="570" HEIGHT="29">
+						<TextLine ID="line_3" HPOS="229" VPOS="315" WIDTH="570" HEIGHT="29">
+							<String ID="string_12" HPOS="229" VPOS="316" WIDTH="260" HEIGHT="28" WC="0.96" CONTENT="Finansutskottet"/><SP WIDTH="21" VPOS="316" HPOS="489"/>
+							<String ID="string_13" HPOS="510" VPOS="323" WIDTH="22" HEIGHT="12" WC="0.93" CONTENT="="/><SP WIDTH="24" VPOS="323" HPOS="532"/>
+							<String ID="string_14" HPOS="556" VPOS="315" WIDTH="243" HEIGHT="28" WC="0.89" CONTENT="1992/93:FiU30"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

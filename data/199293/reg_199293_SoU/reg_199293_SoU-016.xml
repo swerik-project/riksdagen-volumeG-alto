@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ob5uv23r_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1949" HEIGHT="2858" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1949" HEIGHT="2858">
+				<ComposedBlock ID="cblock_0" HPOS="111" VPOS="2590" WIDTH="374" HEIGHT="27">
+					<TextBlock ID="block_0" HPOS="111" VPOS="2590" WIDTH="374" HEIGHT="27">
+						<TextLine ID="line_0" HPOS="111" VPOS="2590" WIDTH="374" HEIGHT="27">
+							<String ID="string_0" HPOS="111" VPOS="2590" WIDTH="90" HEIGHT="27" WC="0.91" CONTENT="gotab"/><SP WIDTH="21" VPOS="2590" HPOS="201"/>
+							<String ID="string_1" HPOS="222" VPOS="2594" WIDTH="73" HEIGHT="21" WC="0.89" CONTENT="44004,"/><SP WIDTH="10" VPOS="2594" HPOS="295"/>
+							<String ID="string_2" HPOS="305" VPOS="2594" WIDTH="115" HEIGHT="20" WC="0.96" CONTENT="Stockholm"/><SP WIDTH="12" VPOS="2594" HPOS="420"/>
+							<String ID="string_3" HPOS="432" VPOS="2597" WIDTH="53" HEIGHT="18" WC="0.96" CONTENT="1993"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
