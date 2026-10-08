@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_vymky7t9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1248" HEIGHT="1899" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1248" HEIGHT="1899">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="0" WIDTH="713" HEIGHT="1"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="189" WIDTH="2" HEIGHT="909"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="98" VPOS="1597" WIDTH="241" HEIGHT="64">
+					<TextBlock ID="block_0" HPOS="98" VPOS="1597" WIDTH="241" HEIGHT="64">
+						<TextLine ID="line_0" HPOS="98" VPOS="1597" WIDTH="241" HEIGHT="22">
+							<String ID="string_0" HPOS="98" VPOS="1597" WIDTH="112" HEIGHT="16" WC="0.92" CONTENT="Datoriserad"/><SP WIDTH="9" VPOS="1597" HPOS="210"/>
+							<String ID="string_1" HPOS="219" VPOS="1598" WIDTH="120" HEIGHT="21" WC="0.91" CONTENT="Fotosättning"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="99" VPOS="1620" WIDTH="109" HEIGHT="21">
+							<String ID="string_2" HPOS="99" VPOS="1620" WIDTH="109" HEIGHT="21" WC="0.90" CONTENT="LiberTryck"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="98" VPOS="1643" WIDTH="152" HEIGHT="18">
+							<String ID="string_3" HPOS="98" VPOS="1643" WIDTH="102" HEIGHT="17" WC="0.96" CONTENT="Stockholm"/><SP WIDTH="10" VPOS="1643" HPOS="200"/>
+							<String ID="string_4" HPOS="210" VPOS="1645" WIDTH="40" HEIGHT="16" WC="0.96" CONTENT="1975"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
